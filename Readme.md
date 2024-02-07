@@ -12,9 +12,9 @@
 - Système d'exploitation Linux 64 Bits
 - Avoir GCC et Java, installés sur le système 
 - Installer le paquet libjson-c-dev avec :
-    ````bash
-    sudo apt install libjson-c-dev
-    ````
+````bash
+sudo apt install libjson-c-dev
+````
     
 ### Comment démarrer le programme
 
